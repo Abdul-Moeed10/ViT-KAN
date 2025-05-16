@@ -36,25 +36,6 @@ The **HAR dataset**, sourced from Kaggle, consists of labeled images of diverse 
 - scikit-learn
 - matplotlib
 
-### 📥 Setup Instructions
-
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/vit-kan.git
-    cd vit-kan
-    ```
-
-2. **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Install KAN library**
-    ```bash
-    git clone https://github.com/KindXiaoming/pykan.git
-    pip install ./pykan
-    ```
-
 ---
 
 ### 🧪 Running on Penn Action Dataset
